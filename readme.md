@@ -3,4 +3,8 @@ I'm Ayush Mehar😊, currently pursuing Bachelor's Degree in Computer Science fr
 
 I'm a MERN Stack Developer currently looking for internships. I also have a keen interest in Statistics, Analytics and Machine Learning.
 
-Feel free to drop me a 📧 at **meharayush37@gmail.com** or **ayushm19100@iiitnr**.edu.in
+[I'm also active on Kaggle]https://www.kaggle.com/ayushmehar7/code)
+
+Feel free to drop me a 📧 at **meharayush37@gmail.com**!
+
+[LinkedIn 👔 ](https://www.linkedin.com/in/ayush-nutan-mehar-a2864817a/) 
