@@ -40,7 +40,6 @@ I'm a MERN Stack Developer currently looking for internships. I also have a keen
 <code><img height="70" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-4-1175139.png"></code>
 <code><img height="70" src="https://logowik.com/content/uploads/images/flutter5786.jpg"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="70" src="https://i0.wp.com/copyassignment.com/wp-content/uploads/2021/08/Django-logo.jpg?fit=474%2C474&ssl=1"></code>
 
 ## &#x1f4c8; My GitHub Stats
 
